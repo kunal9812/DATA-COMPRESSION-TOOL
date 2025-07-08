@@ -33,3 +33,5 @@ This project enhanced my understanding of algorithm implementation, file handlin
 Overall, this task deepened my knowledge of data compression fundamentals and helped me build a working tool that reflects the real-world utility of algorithmic problem-solving in systems programming.
 
 *OUTPUT* :
+
+<img width="1339" height="345" alt="Image" src="https://github.com/user-attachments/assets/9bd5782a-374d-4c37-b9db-0d9b7ff468a1" />
